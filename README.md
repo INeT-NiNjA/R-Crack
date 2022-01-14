@@ -1,0 +1,9 @@
+# Rcrack
+EASY TO USE  PYTHON PROGRAM TO BRUTEFORCE ALMOST EVERYTHING
+
+REQUIREMENTS:
+=>  python3{tqdm,os,zipfile,rarfile,}
+
+SUCCESSFULLY TESTED ON:
+=>  Kali Linux
+=>  Termux
